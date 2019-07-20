@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Define an Interface IPerson", "01.Define an Interface IPerson\01.Define an Interface IPerson.csproj", "{00AF77F3-6CDA-4C33-B50F-525B77C7C873}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.02.Define an Interface IPerson", "01.Define an Interface IPerson\01.02.Define an Interface IPerson.csproj", "{00AF77F3-6CDA-4C33-B50F-525B77C7C873}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.Ferrari", "03.Ferrari\03.Ferrari.csproj", "{49389910-F841-47FE-8B97-AD783D03D934}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04.Telephony", "04.Telephony\04.Telephony.csproj", "{8BB886B0-46A2-4F85-997C-BCD76455A8C4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Border Control", "05.Border Control\05.Border Control.csproj", "{D2A7F56B-2A61-4D91-AA1D-B7E4964DF34B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +21,18 @@ Global
 		{00AF77F3-6CDA-4C33-B50F-525B77C7C873}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{00AF77F3-6CDA-4C33-B50F-525B77C7C873}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{00AF77F3-6CDA-4C33-B50F-525B77C7C873}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49389910-F841-47FE-8B97-AD783D03D934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49389910-F841-47FE-8B97-AD783D03D934}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49389910-F841-47FE-8B97-AD783D03D934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49389910-F841-47FE-8B97-AD783D03D934}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8BB886B0-46A2-4F85-997C-BCD76455A8C4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8BB886B0-46A2-4F85-997C-BCD76455A8C4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8BB886B0-46A2-4F85-997C-BCD76455A8C4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8BB886B0-46A2-4F85-997C-BCD76455A8C4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2A7F56B-2A61-4D91-AA1D-B7E4964DF34B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2A7F56B-2A61-4D91-AA1D-B7E4964DF34B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2A7F56B-2A61-4D91-AA1D-B7E4964DF34B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2A7F56B-2A61-4D91-AA1D-B7E4964DF34B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
